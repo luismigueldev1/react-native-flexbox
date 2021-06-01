@@ -21,14 +21,14 @@ const styles = StyleSheet.create({
     borderWidth: 10,
     borderColor: "white",
     backgroundColor: "#5856D6",
-    flex: 1,
+    flex: 2,
   },
   cajaNaranja: {
     width: "100%",
     borderWidth: 10,
     borderColor: "white",
     backgroundColor: "#F0A23B",
-    flex: 1,
+    flex: 2,
   },
   cajaAzul: {
     width: "100%",
