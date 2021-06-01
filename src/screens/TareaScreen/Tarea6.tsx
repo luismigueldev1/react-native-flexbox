@@ -28,13 +28,13 @@ const styles = StyleSheet.create({
     borderWidth: 10,
     borderColor: "white",
     backgroundColor: "#F0A23B",
-    flex: 2,
+    flex: 1,
   },
   cajaAzul: {
     width: "100%",
     borderWidth: 10,
     borderColor: "white",
     backgroundColor: "#28C4D9",
-    flex: 3,
+    flex: 2,
   },
 })
