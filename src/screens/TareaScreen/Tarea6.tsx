@@ -35,6 +35,6 @@ const styles = StyleSheet.create({
     borderWidth: 10,
     borderColor: "white",
     backgroundColor: "#28C4D9",
-    flex: 2,
+    flex: 4,
   },
 })
